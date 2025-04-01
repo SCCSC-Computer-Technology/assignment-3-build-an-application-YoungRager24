@@ -1,0 +1,7 @@
+After reviewing design files for this solution I find the layout, text, and buttons of the windows forms are well thought out and easy to read. 
+I especially like the backing color and the simple layout of the forms. Even though it makes the window larger I also appreciate the manual asc/desc 
+field options for the user. Even though the code is lengthy with the extra asc/dsc field functions, when looking at the .cs file I see the code and 
+button methods are also tabbed/laid out in an easy to read list with a large amount of comments to help remember where you are in the code. I also like 
+the use of groupboxes for the radio buttons, it was the best way I found of associating the buttons too. For the details form cs code I see that SQLConnection 
+is used, I would think there would be an alternative to use less code but I am unfamiliar because I used Linq for my version. Other than that the only thing 
+I would change about this solution would be to make grid view of the main form wider to see more fields. 
